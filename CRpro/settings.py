@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-@!t!hydk=o0r&&60n+@u1r_iy1wso^)_6wp-95a-!&f*qece(a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crimina-detection-002.onrender.com']
 
 AUTH_USER_MODEL = 'CRapp.User'
 
